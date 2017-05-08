@@ -14,6 +14,7 @@ namespace Beyondedge.McMonitor.BLL.System
     {
         private ConfigSetting m_ConfigSetting;
         private FileUtility m_FileUtility;
+	//Testing Git Process
         public DeviceBLL()
         {
             this.m_ConfigSetting = new ConfigSetting();
