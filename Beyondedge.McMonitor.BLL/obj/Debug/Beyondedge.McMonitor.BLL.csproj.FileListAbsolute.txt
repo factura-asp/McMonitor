@@ -1,0 +1,33 @@
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.dll
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.pdb
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.dll
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.dll
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.dll
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.pdb
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.pdb
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.pdb
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.csprojResolveAssemblyReference.cache
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.dll
+D:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.pdb
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.dll
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.pdb
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.dll
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.dll
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.dll
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.pdb
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.pdb
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.pdb
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.csprojResolveAssemblyReference.cache
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.dll
+E:\PROJECT\CTY TEG\McMonitorTFS\McMonitor\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.pdb
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.dll
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.BLL.pdb
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.dll
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.dll
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.dll
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.DAL.pdb
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Security.pdb
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\bin\Debug\Beyondedge.McMonitor.Utility.pdb
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.csprojResolveAssemblyReference.cache
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.dll
+C:\BE_Works\01-McMonitor\04_SourceCode\McMonitorSA\Beyondedge.McMonitor.BLL\obj\Debug\Beyondedge.McMonitor.BLL.pdb
